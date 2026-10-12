@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/flutter-accessibility/` + `references/testing/protocol.md`. This copy is a shim.
+
 # ♿ Skill: Accessibility (a11y)
 
 ## 📋 Metadata

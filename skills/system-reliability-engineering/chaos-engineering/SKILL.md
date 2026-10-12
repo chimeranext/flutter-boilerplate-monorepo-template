@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/sre-chaos-engineering/` + `references/liveness/protocol.md`. This copy is a shim.
+
 # 💥 Skill: Chaos Engineering
 
 ## 📋 Metadata

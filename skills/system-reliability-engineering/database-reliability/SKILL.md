@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/sre-database-reliability/` + `references/testing/protocol.md` y `references/liveness/protocol.md`. This copy is a shim.
+
 # 🗄️ Skill: Database Reliability
 
 ## 📋 Metadata

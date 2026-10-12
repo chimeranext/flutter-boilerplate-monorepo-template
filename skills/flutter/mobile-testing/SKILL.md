@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/flutter-mobile-testing/` + `references/testing/protocol.md`. This copy is a shim.
+
 # 📱 Skill: Mobile Testing y Debugging con Flutter MCP
 
 ## 📋 Metadata

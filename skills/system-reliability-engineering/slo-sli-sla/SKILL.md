@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/sre-slo-sli-sla/` + `references/governance/protocol.md`. This copy is a shim.
+
 # 📈 Skill: Service Level Objectives (SLO/SLI/SLA)
 
 ## 📋 Metadata

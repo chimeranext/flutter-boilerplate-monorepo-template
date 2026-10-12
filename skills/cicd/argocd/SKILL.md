@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/cicd-argocd/` + `references/governance/protocol.md`. This copy is a shim.
+
 # 🔄 Skill: ArgoCD GitOps Deployment
 
 ## 📋 Metadata

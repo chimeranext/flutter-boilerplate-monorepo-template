@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/sre-load-testing-performance/` + `references/testing/protocol.md`. This copy is a shim.
+
 # ⚡ Skill: Load Testing & Performance
 
 ## 📋 Metadata

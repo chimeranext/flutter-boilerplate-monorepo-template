@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/flutter-error-tracking/` + `references/liveness/protocol.md`. This copy is a shim.
+
 # 🐛 Skill: Error Tracking & Crash Reporting
 
 ## 📋 Metadata

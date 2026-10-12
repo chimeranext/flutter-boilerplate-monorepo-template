@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/static-analysis/` + `references/security/protocol.md`. This copy is a shim.
+
 # 🔍 Skill: Static Analysis
 
 ## 📋 Metadata

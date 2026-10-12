@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/sre-network-policies-security/` + `references/security/protocol.md`. This copy is a shim.
+
 # 🔐 Skill: Network Policies & Security
 
 ## 📋 Metadata
