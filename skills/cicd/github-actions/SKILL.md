@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/cicd-github-actions/` + `references/governance/protocol.md`. This copy is a shim.
+
 # 🚀 Skill: GitHub Actions CI/CD
 
 ## 📋 Metadata

@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/sre-disaster-recovery-business-continuity/` + `references/testing/protocol.md` y `references/governance/protocol.md`. This copy is a shim.
+
 # 🆘 Skill: Disaster Recovery & Business Continuity
 
 ## 📋 Metadata

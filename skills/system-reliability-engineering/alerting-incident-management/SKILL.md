@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/sre-alerting-incident-management/` + `references/liveness/protocol.md` y `references/governance/protocol.md`. This copy is a shim.
+
 # 🚨 Skill: Alerting & Incident Management
 
 ## 📋 Metadata

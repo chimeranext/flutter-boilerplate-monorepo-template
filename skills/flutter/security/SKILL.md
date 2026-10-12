@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/flutter-security/` + `references/security/protocol.md`. This copy is a shim.
+
 # 🔒 Skill: Security Best Practices
 
 ## 📋 Metadata

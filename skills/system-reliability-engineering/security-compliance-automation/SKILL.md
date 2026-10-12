@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/sre-security-compliance-automation/` + `references/security/protocol.md`. This copy is a shim.
+
 # 🔒 Skill: Security & Compliance Automation
 
 ## 📋 Metadata

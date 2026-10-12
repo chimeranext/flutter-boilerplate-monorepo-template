@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/sre-logging-log-aggregation/` + `references/governance/protocol.md`. This copy is a shim.
+
 # 📝 Skill: Logging & Log Aggregation
 
 ## 📋 Metadata

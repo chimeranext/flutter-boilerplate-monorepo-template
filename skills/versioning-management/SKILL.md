@@ -1,3 +1,5 @@
+> **MIGRATED:** SSOT now lives in `better-toolkits/toolkits/assurance-toolkit/skills/versioning-management/` + `references/governance/protocol.md`. This copy is a shim (SemVer + conventional commits universales, no solo Flutter).
+
 # 🏷️ Skill: Versioning Management
 
 ## 📋 Metadata
